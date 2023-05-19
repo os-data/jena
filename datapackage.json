@@ -107,7 +107,7 @@
     {
       "name": "jena-enriched",
       "format": "csv",
-      "path": "https://storage.openspending.org/jena-enriched.csv",
+      "path": "https://storage.openspending.org/jena/jena-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 10079716,
       "dialect": {
